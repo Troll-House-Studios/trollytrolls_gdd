@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: troll-house-studios.github.io
+  baseUrl: troll-house-studios.github.io/trollytrolls_gdd
   ignorePatterns:
     - private
     - templates
