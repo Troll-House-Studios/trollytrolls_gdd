@@ -1,6 +1,6 @@
 ---
 title: Template File For Quartz
-draft: false
+draft: true
 tags:
   - example-tag
 ---
