@@ -10,7 +10,7 @@ This is a example template file for Obsidian that Quartz utilizes special featur
 ```markdown
 ---
 title: Template File For Quartz
-draft: false
+draft: true
 tags:
   - example-tag
 ---
