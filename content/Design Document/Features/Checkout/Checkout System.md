@@ -9,6 +9,8 @@ Write a sentence or two about why this feature is necessary and how it came to b
 
 What is the impact this feature is going to have on the player? How does it link to your design pillars?
 
+This system is going to act as a sink to the items as by allowing players to be able to secure the items they collect.
+
 ## Measuring success
 
 Write down how you are going to test that this feature works. What metrics are you looking out for (if you’re using analytics)? What behavior are you expecting (if you’re doing playtesting)?
