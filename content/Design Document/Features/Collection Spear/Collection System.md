@@ -2,18 +2,15 @@
 
 # Context
 
-Write a sentence or two about why this feature is necessary and how it came to be.
-
-This is one of the core mechanics for trolly trolls. It is what will allow the differing players to be able grab items 
+This is one of the core mechanics for trolly trolls. It is what will allow the differing players to be able grab items around the level and from each other.
 
 ## Hypothesis
 
-What is the impact this feature is going to have on the player? How does it link to your design pillars?
+This system should be fluid and  not add to the mental load while a player is driving around. The goal of the spear is to be able to shoot and drive at the same time.
 
 ## Measuring success
 
-Write down how you are going to test that this feature works. What metrics are you looking out for (if you’re using analytics)? What behavior are you expecting (if you’re doing playtesting)?
-
+This feature is successful if the player is able to drive and shoot without have a mental stutter trying to know what mechanic they need to press
 # Design
 
 ## Summary
