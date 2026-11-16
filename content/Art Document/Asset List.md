@@ -6,7 +6,7 @@ Asset List
 
 ## Static Props
 
-- Decorational prop shelf (for each shelf palette)
+- Decoration prop shelf (for each shelf palette)
 
 - Freezer cabinet 
 
